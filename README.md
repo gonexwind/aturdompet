@@ -2,9 +2,9 @@
 
 ## My First Flutter Project
 
-![home](screenshot/home.png){width=50%}
-![income](screenshot/income.png){width=50%}
-![outcome](screenshot/outcome.png){width=50%}
+<img src="screenshot/home.png" width="50%" />
+<img src="screenshot/income.png" width="50%" />
+<img src="screenshot/outcome.png" width="50%" />
 
 ## What I Used
 
